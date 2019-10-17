@@ -13,6 +13,12 @@ h1{
 em{
   font-family: serif;
 }
-blockquote.greentea, p.greentea{
+p.greentea{
   color: green;
+}
+p.raspberry{
+  color: blue;
+}
+p.blueberry{
+  color: purple;
 }
